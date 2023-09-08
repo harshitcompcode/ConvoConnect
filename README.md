@@ -9,5 +9,7 @@
 #To deploy locally
 
 Step 1 : clone the repo
+
 Step 2 :npm install
+
 Step 3 : npm run dev
